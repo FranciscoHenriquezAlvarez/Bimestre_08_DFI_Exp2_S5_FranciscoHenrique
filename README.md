@@ -1,4 +1,4 @@
-Mortal Store 🎮
+# Mortal Store 🎮
 
 Proyecto desarrollado progresivamente para la asignatura **Desarrollo Frontend I (PFY2201)**.
 
@@ -177,12 +177,4 @@ Bootstrap se descarga desde un CDN, por lo que su carga requiere conexión a Int
 
 ## 🌐 Publicación
 
-La publicación de esta versión en GitHub Pages se encuentra en preparación. El enlace público se incorporará después de activar y comprobar el despliegue.
 
-Según las instrucciones de la actividad, los archivos del proyecto deben estar en `main` y la publicación debe configurarse desde `gh-pages`, utilizando la carpeta raíz. `index.html` debe permanecer en la raíz de la publicación.
-
----
-
-## 📝 Alcance académico
-
-Mortal Store es un proyecto educativo. Los enlaces de Instagram y Facebook son provisionales y no dirigen a perfiles reales. Las capturas y el informe de la actividad se preparan como evidencias de la entrega.
